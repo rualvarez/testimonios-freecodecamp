@@ -1,0 +1,1 @@
+Proyecto para aprender siguiendo el curso de freeCodeCamp (https://www.freecodecamp.org/espanol/news/aprende-react-desde-cero-curso-de-react-con-proyectos/).
